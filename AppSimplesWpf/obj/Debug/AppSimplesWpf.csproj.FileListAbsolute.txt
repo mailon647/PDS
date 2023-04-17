@@ -1,0 +1,16 @@
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\bin\Debug\AppSimplesWpf.exe.config
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\bin\Debug\AppSimplesWpf.exe
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\bin\Debug\AppSimplesWpf.pdb
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\AppSimplesWpf.csproj.AssemblyReference.cache
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\AppSimplesWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\MainWindow.g.cs
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\App.g.cs
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\AppSimplesWpf_MarkupCompile.cache
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\AppSimplesWpf_MarkupCompile.lref
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\MainWindow.baml
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\AppSimplesWpf.g.resources
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\AppSimplesWpf.Properties.Resources.resources
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\AppSimplesWpf.csproj.GenerateResource.cache
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\AppSimplesWpf.csproj.CoreCompileInputs.cache
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\AppSimplesWpf.exe
+C:\Users\2021102020075\Documents\Visual Studio 2022\ProjetosPDS\AppSimplesWpf\obj\Debug\AppSimplesWpf.pdb
